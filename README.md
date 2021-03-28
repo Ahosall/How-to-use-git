@@ -3,7 +3,7 @@ Este markdown foi feito no intuito de ensinar os comandos básicos do git.
 
 ## CMD
 
-1. Primeiro de tudo abra o CMD. `WIN` + `R`, ou pesquisando no menu do Windows.
+1. Primeiro de tudo abra o CMD. `WIN` + `R` e digite `cmd` e dê `Enter`, ou pesquise no menu do Windows.
 
 2. Vá para pasta do seu projeto.
 	```cmd
